@@ -1,0 +1,24 @@
+.register-field{
+    /* width: 100% !important;
+    display: flex;
+    justify-content: center;
+    flex-direction: row; */
+
+}
+.form{
+    display: flex;
+    flex-direction: column;
+}
+
+.sign-upbtn{
+    margin-right: 10px !important;
+}
+
+
+label{
+    margin-right: 5px;
+}
+
+.text-field .css-16wblaj-MuiInputBase-input-MuiOutlinedInput-input{
+    padding: 5px;
+}
